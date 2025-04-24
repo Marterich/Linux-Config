@@ -22,3 +22,8 @@ filetype plugin on
 " set noswapfile            " disable creating swap file
 " set backupdir=~/.cache/vim " Directory to store backup files
 
+call plug#begin("~/.vim/plugged")
+ " Plugin Section
+ Plug 'preservim/nerdcommenter'
+call plug#end()
+
