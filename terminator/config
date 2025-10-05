@@ -4,7 +4,6 @@
   [[default]]
     background_darkness = 0.97
     background_type = transparent
-    cursor_color = "#aaaaaa"
     show_titlebar = False
     scrollback_infinite = True
     use_theme_colors = True
